@@ -1,0 +1,15 @@
+C:\Users\kab6-8\source\repos\8\bin\Debug\8.exe.config
+C:\Users\kab6-8\source\repos\8\bin\Debug\8.exe
+C:\Users\kab6-8\source\repos\8\bin\Debug\8.pdb
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.csprojAssemblyReference.cache
+C:\Users\kab6-8\source\repos\8\obj\Debug\MainWindow.g.cs
+C:\Users\kab6-8\source\repos\8\obj\Debug\App.g.cs
+C:\Users\kab6-8\source\repos\8\obj\Debug\8_MarkupCompile.cache
+C:\Users\kab6-8\source\repos\8\obj\Debug\8_MarkupCompile.lref
+C:\Users\kab6-8\source\repos\8\obj\Debug\MainWindow.baml
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.g.resources
+C:\Users\kab6-8\source\repos\8\obj\Debug\_8.Properties.Resources.resources
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.csproj.GenerateResource.cache
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.exe
+C:\Users\kab6-8\source\repos\8\obj\Debug\8.pdb

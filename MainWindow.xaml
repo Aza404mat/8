@@ -1,0 +1,27 @@
+﻿<Window x:Class="_8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button1">
+            <StackPanel>
+                <TextBlock Text="Набор кнопкок" />
+                <Button Background="Red" Height="20" Content="Red" />
+                <Button Background="Yellow" Height="20" Content="Yellow" />
+                <Button Background="Green" Height="20" Content="Green" />
+                <StackPanel>
+                    <Button Margin="5" HorizontalContentAlignment="Left" Content="Left" Height="90" Width="500" />
+                    <Button Margin="5" HorizontalContentAlignment="Right" Content="Right" Height="90" Width="500" />
+                    <Button Margin="5" HorizontalContentAlignment="Center" Content="Center" Height="90" Width="500" />
+                </StackPanel>
+
+            </StackPanel>
+            
+        </Button>
+
+    </Grid>
+</Window>
